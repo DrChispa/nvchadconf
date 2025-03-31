@@ -22,4 +22,8 @@ return {
   -- 		},
   -- 	},
   -- },
+  {
+    "Exafunction/codeium.vim",
+    event = 'bufEnter'
+  },
 }
