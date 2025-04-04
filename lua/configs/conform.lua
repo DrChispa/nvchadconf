@@ -4,6 +4,8 @@ local options = {
     -- css = { "prettier" },
     -- html = { "prettier" },
     haskell = {"ormolu"},
+    cpp = {"clang-format"},
+    rust = {"rustfmt"},
   },
 
   format_on_save = {
